@@ -1,19 +1,35 @@
-# Programming-for-Everybody-Getting-Started-with-Python-
-Assignments
+# Programming-for-Everybody-Getting-Started-with-Python
+This contains all the practices for the lectures, custom answers to the assignments and additional inline notes for "Python for Everybody Specialization" on Coursera by the University of Michigan.
 
-Motivation
+# Motivation
+I started this respository for myself to make records on answers to each of the assignments 
 
-Build STatus
+# Build Status
 
-Code Style 
+# Code Style 
+Pyhton 
 
-Screen shorts
+# Screenshorts
 
-Tech/framework used
+# Tech/framework used
 Ex.
 Built with
 - 
 
-Features
+# Features
 
-Code Example 
+# Code Example 
+
+# Instalation
+
+# API Reference
+
+# Tests
+
+# How to use?
+
+# Contribute
+
+# Credits
+
+# License
